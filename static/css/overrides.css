@@ -1,0 +1,6 @@
+.main-nav .navbar-brand img{width:250px}
+
+@media (min-width: 992px) { 
+    .main-nav .navbar-brand img { display: none; }
+    .main-nav.nav-bg .navbar-brand img, .main-nav.main-nav-colored .navbar-brand img { display: block; }
+}

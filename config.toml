@@ -1,0 +1,90 @@
+baseURL = 'https://cohub-hugo.netlify.app'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'The Alta Condominium | Washington, DC Premier Residential and Commercial Building'
+ 
+
+  # Main Menu
+  #[[menu.Main]]
+  #name = "About"
+  #url= "/about/"
+  #weight = 1
+  [[menu.Main]]
+  name = "BuildingLink"
+  url= "https://thealtaresidents.buildinglink.com/"
+  weight = 2
+  [[menu.Main]]
+  name = "Pay Assessments"
+  url= "https://nabo.cincwebaxis.com/account/loginmodernthemes"
+  weight = 3
+  #[[menu.Main]]
+  #name = "Blog"
+  #url= "#blog"
+  #weight = 4
+  #[[menu.Main]]
+  #name = "Pricing"
+  #url= "#pricing"
+  #weight = 5
+  #[[menu.Main]]
+  #name = "FAQ"
+  #url= "#faq"
+  #weight = 6
+  #[[menu.Main]]
+  #name = "Contact"
+  #url= "/contact/"
+  #weight = 7
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "BuildingLink"
+  url = "https://thealtaresidents.buildinglink.com/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Pay Assessments"
+  url = "https://nabo.cincwebaxis.com/account/loginmodernthemes"
+  weight = 2
+
+[params]
+  #theme_overrides = "static/css/overrides.css"
+  aboutPageURL = "about"
+  contactLink = "contact"
+  copyright = ""
+  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/alta-logo.png"
+  footerlogo = "images/alta-logo.png"
+  footerDescription = "A premier residential and commercial condominium located in Downtown Washington, DC "
+
+  [params.address]
+  address = "1133 14th St. NW <br>  Washington, DC 20005"
+  email = "alta.condo.manager@altacondominium.com"
+  openingDesc = "Our concierge team endeavours to answer inquiries and assist residents during normal business hours."
+  openingHours = "Concierge hours M-F: 8am — 9pm. <br>Sun: 9am — 5pm. Sat: 9am — 9pm."
+  phone = "202-289-1295"
+
+  [params.map]
+  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  latitude = "38.904731"
+  longitude = "-77.031633"
+  pinImage = "images/pin.png"
+
+  # Social icons
+  #[[params.social]]
+  #icon = "ti-facebook"
+  #url = "https://www.facebook.com/"
+  #weight = 1
+  #[[params.social]]
+  #icon = "ti-twitter-alt"
+  #url = "https://twitter.com/"
+  #weight = 2
+  #[[params.social]]
+  #icon = "ti-dribbble"
+  #url = "https://dribbble.com/"
+  #weight = 3
+  #[[params.social]]
+  #icon = "ti-instagram"
+  #url = "https://www.instagram.com/"
+  #weight = 4
+  
+  

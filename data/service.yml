@@ -1,0 +1,38 @@
+---
+enable: true
+title: "The best of Downtown Metropolitan Living"
+subtitle: >
+          A neighborhood with your favorite amenities just steps away
+services:
+  - name: "Accessible"
+    description: >
+                Located near McPherson Square with Capital Bikeshare just steps away, commuting is a breeze, allowing residents to effortlessly navigate the city's vibrant streets
+    icon: "fa-solid fa-train"
+  - name: "Convenience"
+    description: >
+                Enjoy the perfect blend of premium shopping and local delights. 
+                Visit Streets Market just around the corner, Whole Foods a mere 4 blocks away, and a quick 10-minute ride to Georgetown.
+                
+    icon: "fa-solid fa-bag-shopping"
+  #- name: "Dedicated Account Manager"
+  #  description: >
+  #              Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+  #              Dicta maxime ullam quos sapiente eveniet odio accusamus.
+  #  icon: "ti-help-alt"
+  #- name: "Easy Payment"
+  #  description: >
+  #              Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+  #              Dicta maxime ullam quos sapiente eveniet odio accusamus.
+  #  icon: "ti-credit-card"
+  #- name: "Dedicated Locker"
+  #  description: >
+  #              Lorem ipsum dolor sit amet consectetur adipisicing elit. Error vel mollitia sit.
+  #              Dicta maxime ullam quos sapiente eveniet odio accusamus.
+  #  icon: "fa-solid fa-map-location-dot"
+  - name: "Connected"
+    description: >
+                Enjoy unparalleled access to gigabit internet and a variety of entertainment choices 
+                including cable, satellite, and community antenna service ensuring your home is wired for the future.
+                
+    icon: "fa-solid fa-wifi"
+---
