@@ -8,7 +8,7 @@ services:
     description: >
                 Located near McPherson Square with Capital Bikeshare just steps away, commuting is a breeze, allowing residents to effortlessly navigate the city's vibrant streets
     icon: "fa-solid fa-train"
-  - name: "Convenience"
+  - name: "Convenient"
     description: >
                 Enjoy the perfect blend of premium shopping and local delights. 
                 Visit Streets Market just around the corner, Whole Foods a mere 4 blocks away, and a quick 10-minute ride to Georgetown.
