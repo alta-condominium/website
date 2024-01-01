@@ -14,8 +14,16 @@
   
 
   {{"<!-- Favicon -->" | safeHTML}}
-  <link rel="shortcut icon" href="{{"images/favicon.ico" | absURL}}" type="image/x-icon" />
-  <link rel="icon" href="{{"images/favicon.png" | absURL}}" type="image/x-icon" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=0001">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=0001">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=0001">
+  <link rel="manifest" href="/site.webmanifest?v=0001">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg?v=0001" color="#375289">
+  <link rel="shortcut icon" href="/favicon.ico?v=0001">
+  <meta name="apple-mobile-web-app-title" content="Alta Condominium">
+  <meta name="application-name" content="Alta Condominium">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+  <meta name="theme-color" content="#ffffff">  
 
   {{ with .Site.Params.googleAnalytics }}
   {{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
